@@ -1,3 +1,4 @@
+# Exercise: https://www.learnpython.org/en/Classes_and_Objects
 # We have a class defined for vehicles. Create two new vehicles called car1 and car2. Set car1 to be a red convertible worth $60,000.00 with a name of Fer, and car2 to be a blue van named Jump worth $10,000.00.
 
 # define the Vehicle class
